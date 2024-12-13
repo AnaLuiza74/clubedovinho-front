@@ -1,0 +1,16 @@
+html, body {
+    height: 100%;
+    background-color: #EFEFEF
+    ;
+}
+body.login div {
+    height: 100vh;
+    display: flex;
+    align-items:center ;
+}
+.btin.wine{
+    background-color: 3AD63FF
+    color:;
+}
+
+}
